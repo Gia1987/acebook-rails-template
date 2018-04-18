@@ -11,11 +11,11 @@
 </p>
 
 <form>
-  <input type="submit" name="Like">
+  <input type="submit" name="Like" action="/likes" method="post">
 </form>
 
 <p>
-  <%= @post.like %>like
+  <%= @post.votes_for.size %>like
 </p>
 
 

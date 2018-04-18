@@ -1,7 +1,9 @@
 class PostsController < ApplicationController
-  before_action :set_post, only: [:show, :edit, :update, :destroy]
+  before_action :set_post, only: [:show, :edit, :update, :destroy, :likes]
  # /likes
   def likes
+    @post.liked_by current_user
+    redirect_to post_path(@post)
   end
   # GET /posts
   # GET /posts.json
