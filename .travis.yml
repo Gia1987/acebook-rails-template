@@ -2,16 +2,16 @@
   global:
     - CC_TEST_REPORTER_ID=9d3d604138f299db47dbfc9a31c447ba8d01fbc0ac224b592a1b6805ae83a4cf
 
+  before_script:
+    - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
+    - chmod +x ./cc-test-reporter
+    - ./cc-test-reporter before-build
+
 notifications:
   email: false
 
 language: ruby
-  rvm: '2.5.0'
-
-before_script:
-  - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
-  - chmod +x ./cc-test-reporter
-  - ./cc-test-reporter before-build
+  rvm: - 2.5.0
 
 script:
   - bundle exec rake db:create
