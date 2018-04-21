@@ -2,7 +2,11 @@
   global:
     - CC_TEST_REPORTER_ID=9d3d604138f299db47dbfc9a31c447ba8d01fbc0ac224b592a1b6805ae83a4cf
 
+language: ruby
 rvm: '2.5.0'
+
+notifications:
+  email: false
 
 before_install:
 - sudo apt-get update -qq
