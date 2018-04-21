@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/giacomo/Projects/8th_week/acebook-Underdogs/app/models/user.rb": [
+      "/Users/giacomo/Projects/8:9th_week/acebook-Underdogs/app/models/user.rb": [
         1,
         null,
         null,
@@ -12,38 +12,38 @@
         1,
         null
       ],
-      "/Users/giacomo/Projects/8th_week/acebook-Underdogs/app/models/application_record.rb": [
+      "/Users/giacomo/Projects/8:9th_week/acebook-Underdogs/app/models/application_record.rb": [
         1,
         1,
         null
       ],
-      "/Users/giacomo/Projects/8th_week/acebook-Underdogs/app/helpers/application_helper.rb": [
+      "/Users/giacomo/Projects/8:9th_week/acebook-Underdogs/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/Users/giacomo/Projects/8th_week/acebook-Underdogs/app/helpers/comments_helper.rb": [
+      "/Users/giacomo/Projects/8:9th_week/acebook-Underdogs/app/helpers/comments_helper.rb": [
         1,
         null
       ],
-      "/Users/giacomo/Projects/8th_week/acebook-Underdogs/app/helpers/likes_helper.rb": [
+      "/Users/giacomo/Projects/8:9th_week/acebook-Underdogs/app/helpers/likes_helper.rb": [
         1,
         null
       ],
-      "/Users/giacomo/Projects/8th_week/acebook-Underdogs/app/helpers/posts_helper.rb": [
+      "/Users/giacomo/Projects/8:9th_week/acebook-Underdogs/app/helpers/posts_helper.rb": [
         1,
         null
       ],
-      "/Users/giacomo/Projects/8th_week/acebook-Underdogs/app/helpers/welcome_helper.rb": [
+      "/Users/giacomo/Projects/8:9th_week/acebook-Underdogs/app/helpers/welcome_helper.rb": [
         1,
         null
       ],
-      "/Users/giacomo/Projects/8th_week/acebook-Underdogs/app/controllers/application_controller.rb": [
+      "/Users/giacomo/Projects/8:9th_week/acebook-Underdogs/app/controllers/application_controller.rb": [
         1,
         1,
         1,
         null
       ],
-      "/Users/giacomo/Projects/8th_week/acebook-Underdogs/app/controllers/posts_controller.rb": [
+      "/Users/giacomo/Projects/8:9th_week/acebook-Underdogs/app/controllers/posts_controller.rb": [
         1,
         1,
         1,
@@ -120,19 +120,19 @@
         null,
         null
       ],
-      "/Users/giacomo/Projects/8th_week/acebook-Underdogs/app/models/post.rb": [
+      "/Users/giacomo/Projects/8:9th_week/acebook-Underdogs/app/models/post.rb": [
         1,
         1,
         1,
         null
       ],
-      "/Users/giacomo/Projects/8th_week/acebook-Underdogs/app/models/like.rb": [
+      "/Users/giacomo/Projects/8:9th_week/acebook-Underdogs/app/models/like.rb": [
         1,
         1,
         1,
         null
       ],
-      "/Users/giacomo/Projects/8th_week/acebook-Underdogs/app/controllers/comments_controller.rb": [
+      "/Users/giacomo/Projects/8:9th_week/acebook-Underdogs/app/controllers/comments_controller.rb": [
         1,
         1,
         null,
@@ -208,12 +208,12 @@
         null,
         null
       ],
-      "/Users/giacomo/Projects/8th_week/acebook-Underdogs/app/models/comment.rb": [
+      "/Users/giacomo/Projects/8:9th_week/acebook-Underdogs/app/models/comment.rb": [
         1,
         1,
         null
       ],
-      "/Users/giacomo/Projects/8th_week/acebook-Underdogs/app/controllers/likes_controller.rb": [
+      "/Users/giacomo/Projects/8:9th_week/acebook-Underdogs/app/controllers/likes_controller.rb": [
         1,
         1,
         1,
@@ -253,33 +253,33 @@
         null,
         null
       ],
-      "/Users/giacomo/Projects/8th_week/acebook-Underdogs/app/channels/application_cable/channel.rb": [
+      "/Users/giacomo/Projects/8:9th_week/acebook-Underdogs/app/channels/application_cable/channel.rb": [
         0,
         0,
         0,
         0
       ],
-      "/Users/giacomo/Projects/8th_week/acebook-Underdogs/app/channels/application_cable/connection.rb": [
+      "/Users/giacomo/Projects/8:9th_week/acebook-Underdogs/app/channels/application_cable/connection.rb": [
         0,
         0,
         0,
         0
       ],
-      "/Users/giacomo/Projects/8th_week/acebook-Underdogs/app/controllers/welcome_controller.rb": [
+      "/Users/giacomo/Projects/8:9th_week/acebook-Underdogs/app/controllers/welcome_controller.rb": [
         0,
         0
       ],
-      "/Users/giacomo/Projects/8th_week/acebook-Underdogs/app/jobs/application_job.rb": [
+      "/Users/giacomo/Projects/8:9th_week/acebook-Underdogs/app/jobs/application_job.rb": [
         0,
         0
       ],
-      "/Users/giacomo/Projects/8th_week/acebook-Underdogs/app/mailers/application_mailer.rb": [
+      "/Users/giacomo/Projects/8:9th_week/acebook-Underdogs/app/mailers/application_mailer.rb": [
         0,
         0,
         0,
         0
       ]
     },
-    "timestamp": 1524227566
+    "timestamp": 1524313569
   }
 }
